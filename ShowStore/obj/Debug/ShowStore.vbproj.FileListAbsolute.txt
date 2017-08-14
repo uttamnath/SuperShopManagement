@@ -1,0 +1,71 @@
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSupplier_Entry.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmRptViewer.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.MDIMain.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.Resources.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmNewUser.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmDeleteUser.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmChangePassword.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmLogin.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmUserAccess.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmProducItem.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.vbproj.GenerateResource.Cache
+E:\VB.Net Project\ShowStore\ShowStore\bin\Debug\ShowStore.exe
+E:\VB.Net Project\ShowStore\ShowStore\bin\Debug\ShowStore.pdb
+E:\VB.Net Project\ShowStore\ShowStore\bin\Debug\ShowStore.xml
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.exe
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.xml
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.pdb
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmReceivedEntry.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleEntry.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmChartofAllAccount.resources
+G:\ShowStore\ShowStore\obj\Debug\ShowStore.exe
+G:\ShowStore\ShowStore\obj\Debug\ShowStore.xml
+G:\ShowStore\ShowStore\obj\Debug\ShowStore.pdb
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.exe
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.xml
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.pdb
+H:\ShowStore\ShowStore\obj\Debug\ResolveAssemblyReference.cache
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmSupplier_Entry.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmRptViewer.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.MDIMain.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.Resources.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmNewUser.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmDeleteUser.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmChangePassword.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmLogin.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmUserAccess.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmChartofAllAccount.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmProducItem.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmReceivedEntry.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleEntry.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleRpt.resources
+H:\ShowStore\ShowStore\obj\Debug\ShowStore.vbproj.GenerateResource.Cache
+H:\ShowStore\ShowStore\bin\Debug\ShowStore.exe
+H:\ShowStore\ShowStore\bin\Debug\ShowStore.pdb
+H:\ShowStore\ShowStore\bin\Debug\ShowStore.xml
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleRpt.resources
+E:\VB.Net Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmDailyExpence.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.exe
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.xml
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.pdb
+E:\VB.Net_Project\ShowStore\ShowStore\bin\Debug\ShowStore.exe
+E:\VB.Net_Project\ShowStore\ShowStore\bin\Debug\ShowStore.pdb
+E:\VB.Net_Project\ShowStore\ShowStore\bin\Debug\ShowStore.xml
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSupplier_Entry.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmRptViewer.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.MDIMain.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.Resources.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmNewUser.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmDeleteUser.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmChangePassword.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmLogin.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmUserAccess.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmChartofAllAccount.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmDailyExpence.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmProducItem.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmReceivedEntry.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleEntry.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.frmSaleRpt.resources
+E:\VB.Net_Project\ShowStore\ShowStore\obj\Debug\ShowStore.vbproj.GenerateResource.Cache
